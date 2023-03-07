@@ -1,1 +1,2 @@
-My first readme
+kenya is my country
+
